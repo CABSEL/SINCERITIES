@@ -1,2 +1,2 @@
 # SINCERITIES
-SINCERITIES is a tool for inferring gene regulatory networks from time-stamped cross-sectional single cell transcriptional expression profiles.
+SINCERITIES is a tool for inferring gene regulatory networks from time-stamped cross-sectional single cell transcriptional expression profiles. In particular, SINCERITIES recovers the causal relationships among genes by analyzing the evolution of the distribution of gene expression levels over time, quantified using distribution distances. We formulated the GRN inference as a regularised linear regression problem with ridge regression penalty function. The MATLAB version of SINCERITIES can be found below. 
