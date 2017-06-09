@@ -18,3 +18,21 @@ Current version: 1.0 (23.11.2016)
 ## Download and Installation
 
 SINCERITIES (MATLAB version):
+Download and unzip the [SINCERITIES-Matlab.zip](https://github.com/CABSEL-ICB/SINCERITIES/blob/master/SINCERITIES-Matlab.zip) (ZIP, 13.4 MB) for codes and data.
+
+SINCERITIES-R (R version):
+Download and unzip the [SINCERITIES-R.zip](https://github.com/CABSEL-ICB/SINCERITIES/blob/master/SINCERITIES-R.zip) (ZIP, 11.8 MB) for codes and data
+
+Supporting information for review purposes.
+[Additional Files](https://github.com/CABSEL-ICB/SINCERITIES/tree/master/Additional%20Files)
+
+## License
+Redistribution and use in source and binary forms, with or without modification, are permitted provided agreeing to the Simplified BSD Style [License](https://github.com/CABSEL-ICB/SINCERITIES/blob/master/Sincerities-license.rtf).
+
+[Read about Simplified BSD Style License](https://opensource.org/licenses/bsd-license.php)
+
+## References
+Papili Gao N., Ud-Dean S.M.M. and Gunawan R., Inferring gene regulatory networks from time- stamped single cell transcriptional expression profiles. [Abstract](http://biorxiv.org/content/early/2016/11/23/089110)
+
+## Acknowledgement
+This work is supported by funding from Swiss National Science Foundation.
