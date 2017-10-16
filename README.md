@@ -19,10 +19,10 @@ Current version: 2.0 (16.10.2017)
 ## Download and Installation
 
 SINCERITIES (MATLAB version):    
-Download and unzip the [SINCERITIES-Matlab v2.0.zip](https://github.com/CABSEL-ICB/SINCERITIES/blob/master/SINCERITIES-Matlab v2.0.zip) (ZIP, 13.4 MB) for codes and data.
+Download and unzip the [SINCERITIES-Matlab_v2.0.zip](https://github.com/CABSEL-ICB/SINCERITIES/blob/master/SINCERITIES-Matlab_v2.0.zip) (ZIP, 13.4 MB) for codes and data.
 
 SINCERITIES-R (R version):     
-Download and unzip the [SINCERITIES-R v2.0.zip](https://github.com/CABSEL-ICB/SINCERITIES/blob/master/SINCERITIES-R v2.0.zip) (ZIP, 11.8 MB) for codes and data
+Download and unzip the [SINCERITIES-R_v2.0.zip](https://github.com/CABSEL-ICB/SINCERITIES/blob/master/SINCERITIES-R_v2.0.zip) (ZIP, 11.8 MB) for codes and data
 
 ## License
 Redistribution and use in source and binary forms, with or without modification, are permitted provided agreeing to the Simplified BSD Style [License](https://github.com/CABSEL-ICB/SINCERITIES/blob/master/Sincerities-license.rtf).
